@@ -8,12 +8,12 @@ import {
 import { getMessaging } from "firebase/messaging";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAoOWMl-mopoWc_GLYseGamZpm_EtrBDDM",
-  authDomain: "master-class-97666.firebaseapp.com",
-  projectId: "master-class-97666",
-  storageBucket: "master-class-97666.appspot.com",
-  messagingSenderId: "507449038806",
-  appId: "1:507449038806:web:93d464aef6233d14f9b677",
+   apiKey: "AIzaSyAA4WqGDmaNIIEWPgZ0GX635BDmSB1Ni28",
+  authDomain: "ai-dev-ass.firebaseapp.com",
+  projectId: "ai-dev-ass",
+  storageBucket: "ai-dev-ass.firebasestorage.app",
+  messagingSenderId: "1066688544423",
+  appId: "1:1066688544423:web:31a4ec90cd911ed1c0a582"
 };
 
 const app = initializeApp(firebaseConfig);
